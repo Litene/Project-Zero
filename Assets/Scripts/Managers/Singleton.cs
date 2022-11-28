@@ -4,7 +4,7 @@ public abstract class Singleton<T> : MonoBehaviour where T : MonoBehaviour {
     public static T Instance {
         get {
             _instance ??= FindInScene();
-            return _instance = _instance ??= GenerateSingleton();
+            return _instance ??= GenerateSingleton();
         }
     }
     private static T FindInScene() => FindObjectOfType<T>();
