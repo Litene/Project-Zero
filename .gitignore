@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Packages/packages-lock.json
+.idea/.idea.Project Zero/.idea/projectSettingsUpdater.xml
+.idea/.idea.Project Zero/.idea/workspace.xml
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/PackageManagerSettings.asset
+Assets/Settings/URP-HighFidelity-Renderer.asset
