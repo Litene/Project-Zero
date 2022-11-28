@@ -77,3 +77,5 @@ Packages/manifest.json
 Packages/packages-lock.json
 ProjectSettings/PackageManagerSettings.asset
 Assets/Settings/URP-HighFidelity-Renderer.asset
+Assembly-CSharp.csproj.DotSettings
+.idea/.idea.Project Zero/.idea/indexLayout.xml
